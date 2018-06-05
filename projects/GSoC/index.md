@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects GSoC
+title: GSoC
 ---
 
 # Google Summer of Code 2017 report
@@ -23,10 +23,10 @@ I began with my two first pull requests : [posix threads bindings for scala nati
 
 Then I implemented most of **java.util.concurrent.atomic** on top of my low-level atomics, as can be seen in [this pull request](https://github.com/scala-native/scala-native/pull/930). It was quite simple since I mostly needed to forward method calling to low-level atomics.
 
-I ported from Harmony, and with the help of my previous work **java.util.concurrent.lock.***, as can be seen in [this pull request](https://github.com/scala-native/scala-native/pull/944).
+I ported from Harmony, and with the help of my previous work **java.util.concurrent.lock.**, as can be seen in [this pull request](https://github.com/scala-native/scala-native/pull/944).
 
-Thanks to my previous work, I was now able to implement <srtong>java.lang.{Thread, ThreadLocal, ThreadGroup}, ported from Harmony. Java Threads are implemented on top of posix threads which means it needed some more work. I opened the pull request [here](https://github.com/scala-native/scala-native/pull/947). 
-I had several issues working on Threads, such as how to correctly use pthreads as underlying java Threads, since some methods like **suspend, resume** for example don't exist in C. Suspend and resume were handled thanks to a workaround with OS signals. It is important to note that Thread cannot be used yet since it will need support for calling scala methods in native (with **CFunctionPtr** support) for Thread's **start method**, but this will be available [soon](https://github.com/scala-native/scala-native/issues/897).</srtong>
+Thanks to my previous work, I was now able to implement **java.lang.{Thread, ThreadLocal, ThreadGroup}**, ported from Harmony. Java Threads are implemented on top of posix threads which means it needed some more work. I opened the pull request [here](https://github.com/scala-native/scala-native/pull/947). 
+I had several issues working on Threads, such as how to correctly use pthreads as underlying java Threads, since some methods like **suspend, resume** for example don't exist in C. Suspend and resume were handled thanks to a workaround with OS signals. It is important to note that Thread cannot be used yet since it will need support for calling scala methods in native (with **CFunctionPtr** support) for Thread's **start method**, but this will be available [soon](https://github.com/scala-native/scala-native/issues/897).
 
 Lastly, we decided that it would be nice to be able to use Scala parallel collections, but they depend on java ForkJoinPool and friends since Scala Native uses Scala 2.11, and Scala implements ForkJoinPool. Therefore I needed to implement [all java.util.concurrent classes needed for it](https://github.com/scala-native/scala-native/pull/950) and [the ForkJoin classes](https://github.com/scala-native/scala-native/pull/974). Unfortunately, as of today, this last PR doesn't compile, and I cannot find the reason why yet, but once it'll work, we'll ave support for scala parallel collections.
 

@@ -1,0 +1,32 @@
+---
+layout: default
+title: Contact
+permalink: /contact
+---
+
+<div class="company contact-grid">
+			 <h3 class="clr1">Contact</h3>
+			 <form>	
+					<input id="name" type="text" value="Name" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Name';}">					
+					<input id="addr" type="text" value="Email" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Email';}">
+					<input id="subj" type="text" value="Subject" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Subject';}">						
+					<textarea id="msg" cols="77" rows="6" value=" " onfocus="this.value='';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+					<div class="send">
+						<input type="submit" value="Send" >
+					</div>
+			 </form id='form'>
+			 <script>
+				$(document).ready(function() {
+    				  $('#send').click(function() {
+        			    $('#form').attr('action',
+                       '	      mailto:remi.coudert@epfl.ch?subject=' +
+                       		      $('#subj').val() + '&body=' + $('#msg').val() + '&cc=' + $('#addr').val());
+        			    $('#form').submit();
+    				  });
+				});
+			 </script>
+
+			 <div class="map">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5490.952354518183!2d6.564687!3d46.5184784!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c30fe7ab739e3%3A0x6051b4607fcb144a!2sEPFL%2C+1015+Lausanne%2C+Switzerland!5e0!3m2!1sen!2sfr!4v1503144032565"></iframe>
+			</div>
+		 </div>

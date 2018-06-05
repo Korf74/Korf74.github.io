@@ -14,4 +14,4 @@ During my High School years, I was part of Thonon Black Panthers American Footba
 
 I'm also the Co-founder and Co-president of PolyGameDev, EPFL's Game Development club.
 			
-<div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44043.8351378431!2d6.442499329107529!3d46.37455229777618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c3e897106ff93%3A0x408ab2ae4ba9680!2s74200+Thonon-les-Bains!5e0!3m2!1sen!2sfr!4v1503147403426"</iframe></div>
+<div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44043.8351378431!2d6.442499329107529!3d46.37455229777618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c3e897106ff93%3A0x408ab2ae4ba9680!2s74200+Thonon-les-Bains!5e0!3m2!1sen!2sfr!4v1503147403426"></iframe></div>

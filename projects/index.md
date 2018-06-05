@@ -3,50 +3,36 @@ layout: page
 title: Projects
 ---
 
-#Google Summer of Code 2017
+# Google Summer of Code 2017
 
 See [the dedicated page](GSoC), I worked on the multithreading for Scala Native, and ahead of time compiler for Scala.
 
-	<div class="company_details">
-		<h4>Lauzhack MoodleHub</h4>
-		   <p class="cmpny1">I participated to <a href="http://lauzhack.com/">Lauzhack 2017</a> (Lausanne's Hackaton) with a friend. We implemented Moodlehub during the 12h of coding. You can see the code on this <a href="https://github.com/MoodleHub/MoodleHub">Github project</a>. MoodleHub was concieved as a way to be able to regularly download and update data from Moodle, a web platform used by universities to let teacher upload their courses.
+# Lauzhack MoodleHub
 
-Using this tool enables the user to depend less on an internet connection or a regular authentication, as well as a convenient way to keep yourself updated with your courses (or download all your course contents right before exams !).</p>
-	</div>
+I participated to [Lauzhack 2017]("http://lauzhack.com/") (Lausanne's Hackaton) with a friend. We implemented Moodlehub during the 12h of coding. You can see the code on this [Github Project]("https://github.com/MoodleHub/MoodleHub"). MoodleHub was concieved as a way to be able to regularly download and update data from Moodle, a web platform used by universities to let teacher upload their courses.
 
-</div>
+Using this tool enables the user to depend less on an internet connection or a regular authentication, as well as a convenient way to keep yourself updated with your courses (or download all your course contents right before exams !).
 
-<div class="company">
-	<h3 class="clr2">School Work</h3>
-	<div class="company_details">
-		<h4>Machine Learning Project</h4>
-			<h6>Implementation of a ICML conference paper's algorithms</h6>
-				<p class="cmpny1">Among a <a href="http://icml.cc/2016/?page_id=1839">set of scientific papers from ICML 2916</a> I had to pick a paper that interested me, to implement its algorithm and compare it to similar ones. I chose the paper <a href="GMML.pdf">Geometric Mean Learning</a> that presented a new algorithm for metric learning, using the mathematical geometric mean of geodesic curves. You can find my report and the full explanation <a href="ML_project.pdf">here</a>. During this project, I was able to learn more about metric learning and used python among with scikit learn and pandas to implement the algorithm, compare it to similar metric learning algorithms and compare their running time with regard to different datasets.</p>
-	</div>
+# School Work
 
-	
-	<div class="company_details">
-		<h4>Computational geometry course project</h4>
-			<h6>Pattern recognition for a set of images</h6>
-				<p class="cmpny1">This project consisted in the creation of an image recognition system learning a set of 70 classes from a database of 15 pictures per class. The classifier was a KNN algorithm working on features derived from Hu moments. I done this project in cooperation with Loïs Paulin, another student. <a href="CGDI_report.pdf">Here</a>'s the final report we handed in with full explanation and results.</p>
-	</div>
+## Machine Learning Project
+### Implementation of a ICML conference paper's algorithms
 
-	<div class="company_details">
-		<h4>Distributed Systems project</h4>
-			<h6>Implementation of a distributed data-manager</h6>
-				<p class="cmpny1">The goal of this project was to implement a distributed data-manager, I was to choose a topology for my distrbuted system and implement a way to ditribute data accross it with at least a bit of robustness. I implemented it in Erlang (you can find the code <a href="https://github.com/Korf74/DS_Project">on my github</a>). The <a href="DS_project.pdf">instructions (link)</a> for the project were meant to let a lot a freedom, which I took by making use of Erlang OTP patterns. The full report for this project can be found <a href="DS_report.pdf">here</a>.</p>
-	</div>
+Among a [set of scientific papers from ICML 2916]("http://icml.cc/2016/?page_id=1839") I had to pick a paper that interested me, to implement its algorithm and compare it to similar ones. I chose the paper [Geometric Mean Learning]("GMML.pdf") that presented a new algorithm for metric learning, using the mathematical geometric mean of geodesic curves. You can find my report and the full explanation [here]("ML_project.pdf"). During this project, I was able to learn more about metric learning and used python among with scikit learn and pandas to implement the algorithm, compare it to similar metric learning algorithms and compare their running time with regard to different datasets.
 
-	<div class="company_details">
-		<h4>Misc.</h4>
-			<h6>Other Projects</h6>
-				<!--<p class="cmpny1"> -->
-				<ul>
-					<li>Implemented a GIMP plugin for the Canny Algorithm (ported from openCV).</li>
-					<li>Worked on a group project in which we coded a tool to transform bitmap images into vector images.</li>
-				</ul><!-- </p> -->
-	</div>
+## Computational geometry course project
+### Pattern recognition for a set of images
 
-<!-- add integrated project -->
+This project consisted in the creation of an image recognition system learning a set of 70 classes from a database of 15 pictures per class. The classifier was a KNN algorithm working on features derived from Hu moments. I done this project in cooperation with Loïs Paulin, another student. [Here]("CGDI_report.pdf")'s the final report we handed in with full explanation and results.
 
-</div>
+## Distributed Systems project
+### Implementation of a distributed data-manager
+
+The goal of this project was to implement a distributed data-manager, I was to choose a topology for my distrbuted system and implement a way to ditribute data accross it with at least a bit of robustness. I implemented it in Erlang (you can find the code [on my github]("https://github.com/Korf74/DS_Project"). The [instructions (link)]("DS_project.pdf") for the project were meant to let a lot a freedom, which I took by making use of Erlang OTP patterns. The full report for this project can be found [here]("DS_report.pdf").
+
+
+# Misc.
+## Other Projects
+
+* Implemented a GIMP plugin for the Canny Algorithm (ported from openCV).
+* Worked on a group project in which we coded a tool to transform bitmap images into vector images.

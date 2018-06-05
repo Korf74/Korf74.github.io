@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: page
 title: Projects GSoC
 ---
 
-		 <div class="company">
-			 <h3 class="clr1">Google Summer of Code 2017 report</h3>
-			 <div class="company_details">
+# Google Summer of Code 2017 report
 
-			 <h4 class="clr2">Presentation of the project and work to do</h2>
+## Presentation of the project and work to do
 			 <p><a href="https://github.com/scala-native/scala-native">Scala Native</a> is an ahead of time compiler for Scala, a high-level functional language. Since Scala is built on top of Java, one goal of Scala-Native is to port some java parts in Scala-Native to make it a real scala compiler.</p>
 			 <p>My work was to implement java concurrency in Scala Native, which means implementing most of <strong>java.util.concurrent</strong> and <strong>java.lang.Thread</strong>.</p>
 

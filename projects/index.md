@@ -3,12 +3,9 @@ layout: page
 title: Projects
 ---
 
-<div class="company">
-	<h3 class="clr1">Projects</h3>
-	<div class="company_details">
-		<h4>Google Summer of Code 2017</h4>
-		   <p class="cmpny1">See <a href="GSoC/">the dedicated page</a>, I worked on the multithreading for Scala Native, and ahead of time compiler for Scala.</p>
-	</div>
+#Google Summer of Code 2017
+
+See [the dedicated page](GSoC), I worked on the multithreading for Scala Native, and ahead of time compiler for Scala.
 
 	<div class="company_details">
 		<h4>Lauzhack MoodleHub</h4>

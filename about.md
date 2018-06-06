@@ -4,7 +4,7 @@ title: About me
 permalink: /about
 ---
 
-My name is **Rémi Coudert [ʁemi kudɛʁ]**, I'm 21 and I'm French. I come from Thonon-les-Bains which is east of France, near Switzerland. I graduated from High School there with "Mention très bien" and 17.5/20 GPA and am now working towards my Master degree in Lausanne, Switzerland in Computer Science at EPFL.</p>
+My name is **Rémi Coudert [ʁemi kudɛʁ]**, I'm 21 and I'm French. I come from Thonon-les-Bains which is east of France, near Switzerland. I graduated from High School there with "Mention très bien" and 17.5/20 GPA and am now working towards my Master degree in Lausanne, Switzerland in Computer Science at EPFL.
 
 I'm eager to learn in my everyday life and this applies to my work as well. I curious of almost everything including Ccience but also Social Sciences, Society Studies, Philosophy, Astronomy, History, Economics, Politics, Physics, Metaphysics... I try not to limit myself to Computer Science even though I'm aiming at eventually doing a PhD in this field. I'm hard-working and can be very enthusiastic when a project interests me.
 

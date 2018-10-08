@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Projects
+title: Projects - Previous Work
 ---
+
+# Internship at Logitech
+## February - August 2018
+
+For my mandatory internship, I chose to work at Logitech. Originally a peripherals company, Logitech aims to get into data science and understand better eSports (since they sponsor big teams).
+
+I worked for 6 months on a project involving Machine Learning, Data Analysis, ESports. During this internship, I broadened my technical skills (learnt how to use Docker, GPU farms, Kubernetes, got better at C++ and Makefiles/CMake) as well as my soft skills (I attented several trainings on presentations, had to present my project several times, and got involved in meetings).
 
 # Google Summer of Code 2017
 

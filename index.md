@@ -5,9 +5,9 @@ subtitle:
 use-site-title: true
 ---
 
-Welcome to my personal website, it is not completely done but you can find all professional informations about me within it.
+Welcome to my personal website, you can find all professional informations about me within it.
 
-I'm a Master student in computer science at Lausanne Institute of Technology/Ecole Polytechnique Federale de Lausanne (EPFL) and am currently at my 3rd semester of studies, including a semester of internship at Logitech.
+I'm a Master student in computer science at Lausanne Institute of Technology/Ecole Polytechnique Federale de Lausanne (EPFL) and am currently finishing up my studies with my Master thesis in the [PRIVATICS](https://team.inria.fr/privatics/) team (INRIA) in Grenoble, France.
 
 Feel free to contact me at [remi.coudert@epfl.ch](mailto:remi.coudert@epfl.ch).
 

@@ -3,6 +3,12 @@ layout: page
 title: Projects - Previous Work
 ---
 
+# Master Thesis - PRIVATICS Grenoble
+## February - July 2020
+### Automatically detect Dark patterns in cookie banners
+
+I will update this section with details at some point, in the meantime you can find my report [here](Master_Thesis/Master_Thesis.pdf)
+
 # Internship at Logitech
 ## February - August 2018
 

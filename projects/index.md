@@ -7,7 +7,9 @@ title: Projects - Previous Work
 ## February - July 2020
 ### Automatically detect Dark patterns in cookie banners
 
-I will update this section with details at some point, in the meantime you can find my report [here](Master_Thesis/Master_Thesis.pdf)
+During my Master Thesis, I worked on detecting Dark Patterns in cookie banners, in the PRIVATICS lab at INRIA Grenoble.
+
+I will update this section with details at some point, in the meantime you can find my report [here](Master_Thesis/Master_Thesis.pdf).
 
 # Internship at Logitech
 ## February - August 2018

@@ -4,19 +4,17 @@ title: About me
 permalink: /about
 ---
 
-My name is **Rémi Coudert [ʁemi kudɛʁ]**, a French student in computer science coming from Thonon-les-Bains on the  eastern side of France, near Switzerland, right of the shore of the Leman Lake.
+My name is **Rémi Coudert [ʁemi kudɛʁ]**, a French  computer scientist originated from Thonon-les-Bains, accross Switzerland, right on the shore of the Leman Lake.
 
-I graduated from french High School with "Mention très bien" and 17.5/20 GPA and am now working towards my Master degree in Lausanne, Switzerland in Computer Science at EPFL.
+I graduated from EPFL (Ecole Polytechnique Federale de Lausanne) with a MSc in Computer Science and an engineering diploma in 2020 and am currently employed as a Research Scientist at the Information Security and Privacy lab at Lausanne University.
 
-I am currently working on my Master thesis in the field of privacy at [PRIVATICS lab](https://team.inria.fr/privatics/) in Grenoble under the supervision of [Claude Castelluccia](https://team.inria.fr/privatics/claude-castelluccia/).
+Before that I worked on my Master thesis in the field of privacy at [PRIVATICS lab](https://team.inria.fr/privatics/) in Grenoble under the supervision of [Claude Castelluccia](https://team.inria.fr/privatics/claude-castelluccia/).
 
 I'm eager to learn in my everyday life and this applies to my work as well. I am curious of almost everything including Computer science but also Social Sciences, Society Studies, Philosophy, Astronomy, History, Economics, Politics, Physics, Metaphysics... I try not to limit myself to Computer Science even though I'm aiming at eventually working on a PhD in this field.
 
-My goal would be to eventually get into academic research or in R&D in industries. I would love to solve challenging problems that would prove being meaningful, and I would love to be part of modern science at my modest level.
-
 I am particularly interested in privacy, on both its technical side and its ethical/social one. I also have a keen interest in compilers and programing languages in general.
 
-On a more personal note, I am a member of [Polyquity](http://polyquity.agepoly.ch/), EPFL's association for gender equality for which I have been its Vice-President from January to September 2019.
+On a more personal note, I am a former member of [Polyquity](http://polyquity.agepoly.ch/), EPFL's association for gender equality for which I have been its Vice-President from January to September 2019.
 
 During my High School years, I was part of Thonon Black Panthers American Football Team (a big French team), as a U19. Through this sport, I developed a sense of discipline, hard work, and self-transcendence, that proved very useful in my everyday life. My hard work paid off since I took part of 2014 U19 World Championship in Kuwait City (Kuwait) and at the same time I were accepted at EPFL (14th University in the World according to QS rankings). I managed to get my Bachelor since then with a good GPA and I'm looking forward to learn more advanced computer science during my Master.
 			

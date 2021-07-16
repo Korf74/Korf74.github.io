@@ -4,7 +4,7 @@ title: About me
 permalink: /about
 ---
 
-My name is **Rémi Coudert [ʁemi kudɛʁ]**, a French  computer scientist originated from Thonon-les-Bains, accross Switzerland, right on the shore of the Leman Lake.
+My name is **Rémi Coudert [ʁemi kudɛʁ]**, a French  computer scientist. I grew up in Thonon-les-Bains, accross Switzerland, right on the shore of the Leman Lake.
 
 I graduated from EPFL (Ecole Polytechnique Federale de Lausanne) with a MSc in Computer Science and an engineering diploma in 2020 and am currently employed as a Research Scientist at the Information Security and Privacy lab at Lausanne University.
 

@@ -4,16 +4,14 @@ title: About me
 permalink: /about
 ---
 
-My name is **Rémi Coudert [ʁemi kudɛʁ]**, a French  computer scientist. I grew up in Thonon-les-Bains, accross Switzerland, right on the shore of the Leman Lake.
+My name is **Rémi Coudert [ʁemi kudɛʁ]**, I'm a Cyber Security Engineer working in Lausanne, Switzerland.
 
-I graduated from EPFL (Ecole Polytechnique Federale de Lausanne) with a MSc in Computer Science and an engineering diploma in 2020 and am currently employed as a Research Scientist at the Information Security and Privacy lab at Lausanne University.
+I graduated from EPFL (Ecole Polytechnique Federale de Lausanne) with a MSc in Computer Science and an engineering diploma in 2020 and am currently employed as a Cyber Security Engineer at ELCA informatique in Lausanne.
 
 Before that I worked on my Master thesis in the field of privacy at [PRIVATICS lab](https://team.inria.fr/privatics/) in Grenoble under the supervision of [Claude Castelluccia](https://team.inria.fr/privatics/claude-castelluccia/).
 
-I am particularly interested in privacy, on both its technical side and its ethical/social one. I also have a keen interest in compilers and programming languages in general.
+I am particularly interested in privacy, on both its technical side and its ethical/social one and security in general. I also have a keen interest in compilers and programming languages. I seldom participate in CTFs.
 
 On a more personal note, I am a former member of [Polyquity](http://polyquity.agepoly.ch/), EPFL's association for gender equality for which I have been its Vice-President from January to September 2019.
 
 During my High School years, I was part of Thonon Black Panthers American Football Team, as a U19. Through this sport, I developed a sense of discipline, hard work, and self-transcendence, that proved very useful in my everyday life. My hard work paid off since I took part of 2014 U19 World Championship in Kuwait City (Kuwait) and at the same time I were accepted at EPFL (14th University in the World according to QS rankings).
-			
-<div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44043.8351378431!2d6.442499329107529!3d46.37455229777618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c3e897106ff93%3A0x408ab2ae4ba9680!2s74200+Thonon-les-Bains!5e0!3m2!1sen!2sfr!4v1503147403426"></iframe></div>

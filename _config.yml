@@ -29,7 +29,7 @@ navbar-links:
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
   Projects and Work: "projects"
-  Print CV: "CV/resume_cv.pdf"
+  Print CV: "CV/eng/resume_cv.pdf"
   GitHub: "https://github.com/korf74/"
 
 # Image to show in the navigation bar - image must be a square (width = height)

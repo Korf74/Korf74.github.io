@@ -16,4 +16,6 @@ My [TryHackMe profile](https://tryhackme.com/p/enbyvalent)
 
 ![Leman Lake](img/DSC_1152.JPG)
 
+<script src="https://tryhackme.com/badge/733819"></script>
+
 

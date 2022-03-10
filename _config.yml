@@ -31,6 +31,9 @@ navbar-links:
   Projects and Work: "projects"
   Print CV: "CV/eng/resume_cv.pdf"
   GitHub: "https://github.com/korf74/"
+  Cybersec:
+    - THM Profile: "https://tryhackme.com/p/enbyvalent"
+    - THM Jr Pentester certificate: "certifications/THM-enbyvalent.png"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

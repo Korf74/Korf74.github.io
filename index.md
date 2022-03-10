@@ -14,6 +14,6 @@ Feel free to contact me at [remi-coudert@hotmail.fr](mailto:remi-coudert@hotmail
 
 My [TryHackMe profile](https://tryhackme.com/p/enbyvalent)
 
-![Leman Lake](img/DSC_1152.jpg)
+![Leman Lake](img/DSC_1152.JPG)
 
 

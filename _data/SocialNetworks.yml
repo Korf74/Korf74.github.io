@@ -21,6 +21,11 @@ twitter:
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
+thm:
+  name: "TryHackMe"
+  baseURL: "https://tryhackme.com/p/"
+  icon: "fa-user-secret"
+
 reddit:
   name: "Reddit"
   baseURL: "https://reddit.com/u/"

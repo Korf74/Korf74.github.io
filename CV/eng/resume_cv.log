@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.5.26)  26 MAY 2023 16:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.5.26)  2 JUN 2023 11:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1051,40 +1051,43 @@ able
 t line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 23.
-) (cv-sections/experience.tex)
+) (cv-sections/experience.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
+)
 (cv-sections/skills.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 29.
+(Font)              scaled to size 9.00096pt on input line 23.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 29.
+(Font)              scaled to size 6.00064pt on input line 23.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 29.
+(Font)              scaled to size 5.00053pt on input line 23.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 29.
+(Font)              scaled to size 8.99904pt on input line 23.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 29.
+(Font)              scaled to size 5.99936pt on input line 23.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 29.
+(Font)              scaled to size 4.99947pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 29.
+(Font)              scaled to size 6.0pt on input line 23.
 
-Overfull \hbox (28.70247pt too wide) in alignment at lines 11--45
+Overfull \hbox (31.32248pt too wide) in alignment at lines 11--33
 [] [] 
  []
 
-) (cv-sections/extracurricular.tex [1
+) (cv-sections/extracurricular.tex) [1
 
-]) [2] (resume_cv.aux)
+] (resume_cv.aux)
 Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32502 strings out of 411548
- 657279 string characters out of 5818254
- 1884476 words of memory out of 5000000
- 52173 multiletter control sequences out of 15000+600000
- 516245 words of font info for 115 fonts, out of 8000000 for 9000
+ 32504 strings out of 411548
+ 657379 string characters out of 5818254
+ 1886476 words of memory out of 5000000
+ 52174 multiletter control sequences out of 15000+600000
+ 516253 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 114i,12n,118p,549b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,12n,118p,549b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume_cv.pdf (2 pages).
+Output written on resume_cv.pdf (1 page).

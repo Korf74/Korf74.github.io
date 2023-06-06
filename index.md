@@ -8,7 +8,7 @@ use-site-title: true
 Welcome to my personal website, you can find all professional informations about me within it.
 
 
-I'm currently a Cybersecurity Engineer for the [ELCASecurity](https://www.elcasecurity.ch/en) in Lausanne.
+I'm currently a Backend Engineer at [Komugi](https://komugi.io) in Thonon-les-Bains, France.
 
 Feel free to contact me at [remi-coudert@hotmail.fr](mailto:remi-coudert@hotmail.fr).
 

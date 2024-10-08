@@ -14,7 +14,7 @@ Feel free to contact me at [remi-coudert@protonmail.com](mailto:remi-coudert@pro
 
 My [TryHackMe profile](https://tryhackme.com/p/enbyvalent)
 
-![French Chablais](img/DSC_0229.JPG)
+![French Chablais](img/lake.JPG)
 
 <script src="https://tryhackme.com/badge/733819"></script>
 
